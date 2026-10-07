@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+
+# Personal settings; committed examples live at the repo root.
+src/Config.js
+.clasp.json
+
+# clasp OAuth tokens and client secrets, if ever created locally.
+.clasprc.json
+creds.json
+client_secret*.json

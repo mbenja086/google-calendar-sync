@@ -1,0 +1,13 @@
+{
+  "name": "calendar-sync",
+  "private": true,
+  "description": "Mirrors personal-calendar busy time onto the work calendar as Out of Office events (Google Apps Script).",
+  "scripts": {
+    "test": "node --test",
+    "push": "clasp push",
+    "open": "clasp open-script"
+  },
+  "devDependencies": {
+    "@google/clasp": "^3.4.1"
+  }
+}
